@@ -1,0 +1,9 @@
+.main {
+  font-family: $font-main;
+  text-align: center;
+  transform: translate(0, 45%);
+  &__smiley {
+    font-weight: 700;
+    font-size: 150px;
+  }
+}
